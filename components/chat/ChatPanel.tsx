@@ -1,0 +1,1 @@
+{/* The content you provided for ChatPanel */}
